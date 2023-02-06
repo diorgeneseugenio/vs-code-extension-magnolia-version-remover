@@ -1,5 +1,6 @@
 {
   "name": "magnolia-version-remover-importing-files",
+  "publisher": "diorgeneseugenio",
   "displayName": "Magnolia - Version Remover (Importing files)",
   "description": "This extension help you to remove unnedded values in exported Magnolia files.",
   "version": "0.0.1",
@@ -52,5 +53,5 @@
     "webpack-cli": "^5.0.1",
     "@vscode/test-electron": "^2.2.2"
   },
-  "license": "GNU GPL V3.0"
+  "license": "GPL-3.0-only"
 }
