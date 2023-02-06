@@ -51,5 +51,6 @@
     "webpack": "^5.75.0",
     "webpack-cli": "^5.0.1",
     "@vscode/test-electron": "^2.2.2"
-  }
+  },
+  "license": "GNU GPL V3.0"
 }
