@@ -1,5 +1,6 @@
 {
   "name": "magnolia-version-remover-importing-files",
+  "icon": "./src/assets/icon.png",
   "publisher": "diorgeneseugenio",
   "displayName": "Magnolia - Version Remover (Importing files)",
   "description": "This extension help you to remove unnedded values in exported Magnolia files.",
