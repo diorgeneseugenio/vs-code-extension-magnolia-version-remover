@@ -4,7 +4,7 @@
   "publisher": "diorgeneseugenio",
   "displayName": "Magnolia - Version Remover (Importing files)",
   "description": "This extension help you to remove unnedded values in exported Magnolia files.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.75.0"
   },
